@@ -1,5 +1,6 @@
 # WordPress login error msg Plugin
 [![Build Status](https://travis-ci.org/Drivez/WP_login-error-msg.svg?branch=master)](https://travis-ci.org/Drivez/WP_login-error-msg)
+
 Simple plugin to change the error message on the login page.
 
 ## How to install
